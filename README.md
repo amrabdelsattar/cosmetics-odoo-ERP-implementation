@@ -1,0 +1,1 @@
+# cosmetics-odoo-ERP-implementation
